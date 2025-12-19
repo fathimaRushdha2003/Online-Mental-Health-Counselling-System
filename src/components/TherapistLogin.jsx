@@ -168,4 +168,4 @@ const buttonStyle = {
   fontSize: "16px",
   width: "100%",
   boxShadow: "0 0 10px #00eaff",
-};
+}
